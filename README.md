@@ -59,9 +59,9 @@ I have experience in frontend development and have completed my MERN Stack Devel
 
 ### 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: Add your LinkedIn profile
-- Email: Add your professional email
+- GitHub: https://github.com/ankitaMahaseth
+- Email: kumariankita08ece@gmail.com
+- Mobile: +91 7543890430
 
 ---
 
