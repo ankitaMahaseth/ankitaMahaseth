@@ -38,9 +38,9 @@ I have experience in frontend development and have completed my MERN Stack Devel
 - MongoDB Atlas
 
    **Deployment**
-  -Vercel
-  -netlify
-  -render
+  - Vercel
+  - netlify
+  - render
 
 ### 📂 Featured Projects
 
