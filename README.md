@@ -20,7 +20,7 @@ I have experience in frontend development and have completed my MERN Stack Devel
 **Frontend**
 - HTML5, CSS3, JavaScript
 - React.js
-- Bootstrap, Tailwind CSS
+- Bootstrap, Tailwind CSS, Material UI Design
 
 **Backend**
 - Node.js
@@ -36,6 +36,11 @@ I have experience in frontend development and have completed my MERN Stack Devel
 - VS Code
 - Postman
 - MongoDB Atlas
+
+   **Deployment**
+  -Vercel
+  -netlify
+  -render
 
 ### 📂 Featured Projects
 
